@@ -1,1 +1,3 @@
-config-pro
+config:
+  info: config-pro
+  version: 1
